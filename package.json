@@ -17,6 +17,7 @@
   },
   "homepage": "https://github.com/adrianndwiga/nepal-cashmere#readme",
   "dependencies": {
-    "bootstrap": "^4.1.3"
+    "bootstrap": "^4.1.3",
+    "react": "^16.4.2"
   }
 }
